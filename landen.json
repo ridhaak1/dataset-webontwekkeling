@@ -1,0 +1,82 @@
+[
+  {
+    "id": "COUNTRY-001",
+    "name": "Belgium",
+    "continent": "Europe",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+    "independenceYear": 1830,
+    "motto": "Unity Makes Strength"
+  },
+  {
+    "id": "COUNTRY-002",
+    "name": "France",
+    "continent": "Europe",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "independenceYear": 843,
+    "motto": "Liberty, Equality, Fraternity"
+  },
+  {
+    "id": "COUNTRY-003",
+    "name": "Netherlands",
+    "continent": "Europe",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+    "independenceYear": 1581,
+    "motto": "Je Maintiendrai"
+  },
+  {
+    "id": "COUNTRY-004",
+    "name": "Italy",
+    "continent": "Europe",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "independenceYear": 1861,
+    "motto": "Forza e Onore"
+  },
+  {
+    "id": "COUNTRY-005",
+    "name": "Spain",
+    "continent": "Europe",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "independenceYear": 1492,
+    "motto": "Plus Ultra"
+  },
+  {
+    "id": "COUNTRY-006",
+    "name": "Germany",
+    "continent": "Europe",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "independenceYear": 1871,
+    "motto": "Einigkeit und Recht und Freiheit"
+  },
+  {
+    "id": "COUNTRY-007",
+    "name": "Egypt",
+    "continent": "Africa",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+    "independenceYear": 1922,
+    "motto": "Unity, Freedom, Socialism"
+  },
+  {
+    "id": "COUNTRY-008",
+    "name": "Japan",
+    "continent": "Asia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+    "independenceYear": -660,
+    "motto": "Peace and Progress"
+  },
+  {
+    "id": "COUNTRY-009",
+    "name": "United States",
+    "continent": "North America",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "independenceYear": 1776,
+    "motto": "In God We Trust"
+  },
+  {
+    "id": "COUNTRY-010",
+    "name": "United Kingdom",
+    "continent": "Europe",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "independenceYear": 1707,
+    "motto": "Dieu et mon droit"
+  }
+]
