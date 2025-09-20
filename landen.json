@@ -39,14 +39,14 @@
     "independenceYear": 1492,
     "motto": "Plus Ultra"
   },
-  {
+{
     "id": "COUNTRY-006",
-    "name": "Germany",
-    "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/germany.jpg",
+    "name": "South Africa",
+    "continent": "Africa",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
     "independenceYear": 1871,
     "motto": "Einigkeit und Recht und Freiheit"
-  },
+},
   {
     "id": "COUNTRY-007",
     "name": "Egypt",
@@ -63,21 +63,22 @@
     "independenceYear": -660,
     "motto": "Peace and Progress"
   },
-  {
+{
     "id": "COUNTRY-009",
-    "name": "United States",
-    "continent": "North America",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/us.jpg",
+    "name": "Saudi Arabia",
+    "continent": "Asia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
     "independenceYear": 1776,
     "motto": "In God We Trust"
-  },
+}
   {
     "id": "COUNTRY-010",
-    "name": "United Kingdom",
-    "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/uk.jpg",
+    "name": "Iraq",
+    "continent": "Asia",
+    "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
     "independenceYear": 1707,
     "motto": "Dieu et mon droit"
-  }
+}
 ]
+
 
