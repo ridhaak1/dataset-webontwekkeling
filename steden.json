@@ -32,7 +32,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/amsterdam.jpg",
     "regionType": "Capital",
     "landmarks": ["Rijksmuseum", "Anne Frank Huis", "Dam Square"],
-    "countryid": "COUNTRY-003  
+    "countryid": "COUNTRY-003"
 },
   {
     "id": "CITY-004",
@@ -113,5 +113,6 @@
     "landmarks": ["Big Ben", "London Eye", "Tower Bridge"],
     "countryid": "COUNTRY-010"
   }
+
 
 
