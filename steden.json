@@ -44,7 +44,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/",
     "regionType": "Capital",
     "landmarks": ["Colosseum", "Vaticaanstad", "Trevi Fountain"],
-    "countryid": "COUNTRY-004  },
+    "countryid": "COUNTRY-004"  },
   {
     "id": "CITY-005",
     "name": "Madrid",
@@ -113,6 +113,7 @@
     "landmarks": ["Big Ben", "London Eye", "Tower Bridge"],
     "countryid": "COUNTRY-010"
   }
+
 
 
 
