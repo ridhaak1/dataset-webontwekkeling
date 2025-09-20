@@ -56,18 +56,18 @@
     "regionType": "Capital",
     "landmarks": ["Prado Museum", "Royal Palace", "Plaza Mayor"],
     "countryid": "COUNTRY-005"  },
-  {
+{
     "id": "CITY-006",
-    "name": "Berlin",
-    "description": "Berlin is de hoofdstad van Duitsland en bekend om de Berlijnse Muur en Brandenburger Tor.",
+    "name": "Cape Town",
+    "description": "Cape Town is een belangrijke stad in Zuid-Afrika, bekend om de Tafelberg en zijn haven.",
     "population": 3769000,
     "isCapital": true,
     "foundedDate": "1237-10-01",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Table_Mountain_from_Bloubergstrand.jpg",
     "regionType": "Capital",
     "landmarks": ["Berlin Wall", "Brandenburg Gate", "Reichstag"],
-    "countryid": "COUNTRY-006"  },
-  {
+    "countryid": "COUNTRY-006"
+},
     "id": "CITY-007",
     "name": "Cairo",
     "description": "Cairo is de hoofdstad van Egypte, beroemd om de piramides en de Nijl.",
@@ -89,28 +89,29 @@
     "regionType": "Capital",
     "landmarks": ["Tokyo Tower", "Shibuya Crossing", "Imperial Palace"],
     "countryid": "COUNTRY-008"  },
-  {
+{
     "id": "CITY-009",
-    "name": "New York",
-    "description": "New York City is de grootste stad van de Verenigde Staten en een wereldwijde metropool.",
+    "name": "Medina",
+    "description": "Medina is een heilige stad in Saoedi-Arabië en belangrijk voor de islamitische geschiedenis.",
     "population": 8419600,
     "isCapital": false,
     "foundedDate": "1624-09-13",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/newyork.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Al-Masjid_al-Nabawi_2012.JPG",
     "regionType": "Metropolitan",
     "landmarks": ["Statue of Liberty", "Times Square", "Central Park"],
-    "countryid": "COUNTRY-009"    }
-  },
+    "countryid": "COUNTRY-009"
+},
   {
     "id": "CITY-010",
-    "name": "London",
-    "description": "London is de hoofdstad van het Verenigd Koninkrijk en bekend om Big Ben en Buckingham Palace.",
+    "name": "Baghdad",
+    "description": "Baghdad is de hoofdstad van Irak en bekend om zijn rijke geschiedenis en cultuur.",
     "population": 8982000,
     "isCapital": true,
     "foundedDate": "043-07-01",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/london.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Baghdad_city.jpg",
     "regionType": "Capital",
     "landmarks": ["Big Ben", "London Eye", "Tower Bridge"],
-    "countryid": "COUNTRY-010"  }
-]
+    "countryid": "COUNTRY-010"
+  }
+
 
