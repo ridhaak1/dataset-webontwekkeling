@@ -63,7 +63,7 @@
     "population": 3769000,
     "isCapital": true,
     "foundedDate": "1237-10-01",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Table_Mountain_from_Bloubergstrand.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/capetown.jpg",
     "regionType": "Capital",
     "landmarks": ["Berlin Wall", "Brandenburg Gate", "Reichstag"],
     "countryid": "COUNTRY-006"
@@ -113,6 +113,7 @@
     "landmarks": ["Big Ben", "London Eye", "Tower Bridge"],
     "countryid": "COUNTRY-010"
   }
+
 
 
 
