@@ -5,8 +5,8 @@
     "description": "Brussels is de hoofdstad van België en het administratieve centrum van de Europese Unie.",
     "population": 1850000,
     "isCapital": true,
-    "foundedDate": "979-06-02",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/brussel.jpg",
+    "foundedDate": "0979-06-02",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/brussel.jpg",
     "regionType": "Capital",
     "landmarks": ["Grand Place", "Atomium", "Royal Palace"],
     "countryid": "COUNTRY-001"
@@ -18,10 +18,11 @@
     "population": 2148000,
     "isCapital": true,
     "foundedDate": "052-03-01",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/paris.jpg",
     "regionType": "Capital",
     "landmarks": ["Eiffel Tower", "Louvre Museum", "Notre-Dame"],
-    "countryid": "COUNTRY-002"  },
+    "countryid": "COUNTRY-002"
+  },
   {
     "id": "CITY-003",
     "name": "Amsterdam",
@@ -29,11 +30,11 @@
     "population": 872000,
     "isCapital": true,
     "foundedDate": "1275-10-27",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/amsterdam.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/amsterdam.jpg",
     "regionType": "Capital",
     "landmarks": ["Rijksmuseum", "Anne Frank Huis", "Dam Square"],
     "countryid": "COUNTRY-003"
-},
+  },
   {
     "id": "CITY-004",
     "name": "Rome",
@@ -41,10 +42,11 @@
     "population": 2873000,
     "isCapital": true,
     "foundedDate": "0753-04-21",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/rome.jpg",
     "regionType": "Capital",
     "landmarks": ["Colosseum", "Vaticaanstad", "Trevi Fountain"],
-    "countryid": "COUNTRY-004"  },
+    "countryid": "COUNTRY-004"
+  },
   {
     "id": "CITY-005",
     "name": "Madrid",
@@ -52,32 +54,35 @@
     "population": 3223000,
     "isCapital": true,
     "foundedDate": "0856-05-09",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/madrid.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/madrid.jpg",
     "regionType": "Capital",
     "landmarks": ["Prado Museum", "Royal Palace", "Plaza Mayor"],
-    "countryid": "COUNTRY-005"  },
-{
+    "countryid": "COUNTRY-005"
+  },
+  {
     "id": "CITY-006",
     "name": "Cape Town",
     "description": "Cape Town is een belangrijke stad in Zuid-Afrika, bekend om de Tafelberg en zijn haven.",
     "population": 3769000,
     "isCapital": true,
     "foundedDate": "1237-10-01",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/capetown.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/capetown.jpg",
     "regionType": "Capital",
-    "landmarks": ["Berlin Wall", "Brandenburg Gate", "Reichstag"],
+    "landmarks": ["Table Mountain", "V&A Waterfront", "Robben Island"],
     "countryid": "COUNTRY-006"
-},
+  },
+  {
     "id": "CITY-007",
     "name": "Cairo",
     "description": "Cairo is de hoofdstad van Egypte, beroemd om de piramides en de Nijl.",
     "population": 9500000,
     "isCapital": true,
     "foundedDate": "0969-07-08",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/cairo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/cairo.jpg",
     "regionType": "Capital",
     "landmarks": ["Pyramids of Giza", "Egyptian Museum", "Nile River"],
-    "countryid": "COUNTRY-007"  },
+    "countryid": "COUNTRY-007"
+  },
   {
     "id": "CITY-008",
     "name": "Tokyo",
@@ -85,11 +90,12 @@
     "population": 13960000,
     "isCapital": true,
     "foundedDate": "1603-05-03",
-    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/tokyo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/tokyo.jpg",
     "regionType": "Capital",
     "landmarks": ["Tokyo Tower", "Shibuya Crossing", "Imperial Palace"],
-    "countryid": "COUNTRY-008"  },
-{
+    "countryid": "COUNTRY-008"
+  },
+  {
     "id": "CITY-009",
     "name": "Medina",
     "description": "Medina is een heilige stad in Saoedi-Arabië en belangrijk voor de islamitische geschiedenis.",
@@ -98,9 +104,9 @@
     "foundedDate": "1624-09-13",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Al-Masjid_al-Nabawi_2012.JPG",
     "regionType": "Metropolitan",
-    "landmarks": ["Statue of Liberty", "Times Square", "Central Park"],
+    "landmarks": ["Al-Masjid an-Nabawi", "Quba Mosque", "Mount Uhud"],
     "countryid": "COUNTRY-009"
-},
+  },
   {
     "id": "CITY-010",
     "name": "Baghdad",
@@ -110,11 +116,7 @@
     "foundedDate": "043-07-01",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Baghdad_city.jpg",
     "regionType": "Capital",
-    "landmarks": ["Big Ben", "London Eye", "Tower Bridge"],
+    "landmarks": ["Al-Mustansiriya University", "Mutanabbi Street", "Baghdad Tower"],
     "countryid": "COUNTRY-010"
   }
-
-
-
-
-
+]
