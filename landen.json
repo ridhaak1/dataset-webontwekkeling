@@ -3,7 +3,7 @@
     "id": "COUNTRY-001",
     "name": "Belgium",
     "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/Belgium.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/Belgium.jpg",
     "independenceYear": 1830,
     "motto": "Unity Makes Strength"
   },
@@ -11,7 +11,7 @@
     "id": "COUNTRY-002",
     "name": "France",
     "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/france.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/france.jpg",
     "independenceYear": 843,
     "motto": "Liberty, Equality, Fraternity"
   },
@@ -19,7 +19,7 @@
     "id": "COUNTRY-003",
     "name": "Netherlands",
     "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/netherlands.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/netherlands.jpg",
     "independenceYear": 1581,
     "motto": "Je Maintiendrai"
   },
@@ -27,7 +27,7 @@
     "id": "COUNTRY-004",
     "name": "Italy",
     "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/italy.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/italy.jpg",
     "independenceYear": 1861,
     "motto": "Forza e Onore"
   },
@@ -39,19 +39,19 @@
     "independenceYear": 1492,
     "motto": "Plus Ultra"
   },
-{
+  {
     "id": "COUNTRY-006",
     "name": "South Africa",
     "continent": "Africa",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
     "independenceYear": 1871,
     "motto": "Einigkeit und Recht und Freiheit"
-},
+  },
   {
     "id": "COUNTRY-007",
     "name": "Egypt",
     "continent": "Africa",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/egypte.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/egypte.jpg",
     "independenceYear": 1922,
     "motto": "Unity, Freedom, Socialism"
   },
@@ -59,18 +59,18 @@
     "id": "COUNTRY-008",
     "name": "Japan",
     "continent": "Asia",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/japan.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/japan.jpg",
     "independenceYear": -660,
     "motto": "Peace and Progress"
   },
-{
+  {
     "id": "COUNTRY-009",
     "name": "Saudi Arabia",
     "continent": "Asia",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
     "independenceYear": 1776,
     "motto": "In God We Trust"
-}
+  },
   {
     "id": "COUNTRY-010",
     "name": "Iraq",
@@ -78,7 +78,7 @@
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
     "independenceYear": 1707,
     "motto": "Dieu et mon droit"
-}
+  }
 ]
 
 
