@@ -29,7 +29,7 @@
     "continent": "Europe",
     "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/italy.jpg",
     "independenceYear": 1861,
-    "motto": "Forza e Onore"
+    "motto": "L'Italia è una Repubblica democratica, fondata sul lavoro"
   },
   {
     "id": "COUNTRY-005",
@@ -45,7 +45,7 @@
     "continent": "Africa",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
     "independenceYear": 1871,
-    "motto": "Einigkeit und Recht und Freiheit"
+    "motto": "!ke e: ǀxarra ǁke || Unity in Diversity."
   },
   {
     "id": "COUNTRY-007",
@@ -53,7 +53,7 @@
     "continent": "Africa",
     "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/egypte.jpg",
     "independenceYear": 1922,
-    "motto": "Unity, Freedom, Socialism"
+    "motto": "Allah, al-Watan, al-Shaab"
   },
   {
     "id": "COUNTRY-008",
@@ -68,8 +68,8 @@
     "name": "Saudi Arabia",
     "continent": "Asia",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-    "independenceYear": 1776,
-    "motto": "In God We Trust"
+    "independenceYear": 1932,
+    "motto": "There is no god but Allah; Muhammad is the Messenger of Allah"
   },
   {
     "id": "COUNTRY-010",
@@ -77,8 +77,9 @@
     "continent": "Asia",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
     "independenceYear": 1707,
-    "motto": "Dieu et mon droit"
+    "motto": "From the cradle of civilization, Iraq stands united in strength and pride"
   }
 ]
+
 
 
