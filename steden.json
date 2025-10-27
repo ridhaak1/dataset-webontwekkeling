@@ -17,7 +17,7 @@
     "description": "Paris is de hoofdstad van Frankrijk, beroemd om de Eiffeltoren en haar kunst en cultuur.",
     "population": 2148000,
     "isCapital": true,
-    "foundedDate": "052-03-01",
+    "foundedDate": "0052-03-01",
     "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/main/images/paris.jpg",
     "regionType": "Capital",
     "landmarks": ["Eiffel Tower", "Louvre Museum", "Notre-Dame"],
@@ -113,10 +113,11 @@
     "description": "Baghdad is de hoofdstad van Irak en bekend om zijn rijke geschiedenis en cultuur.",
     "population": 8982000,
     "isCapital": true,
-    "foundedDate": "043-07-01",
+    "foundedDate": "0043-07-01",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Baghdad_city.jpg",
     "regionType": "Capital",
     "landmarks": ["Al-Mustansiriya University", "Mutanabbi Street", "Baghdad Tower"],
     "countryid": "COUNTRY-010"
   }
 ]
+
