@@ -102,7 +102,7 @@
     "population": 8419600,
     "isCapital": false,
     "foundedDate": "1624-09-13",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Al-Masjid_al-Nabawi_2012.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/madina.jpg",
     "regionType": "Metropolitan",
     "landmarks": ["Al-Masjid an-Nabawi", "Quba Mosque", "Mount Uhud"],
     "countryid": "COUNTRY-009"
@@ -114,10 +114,11 @@
     "population": 8982000,
     "isCapital": true,
     "foundedDate": "0043-07-01",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Baghdad_city.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/baghdad.jpg",
     "regionType": "Capital",
     "landmarks": ["Al-Mustansiriya University", "Mutanabbi Street", "Baghdad Tower"],
     "countryid": "COUNTRY-010"
   }
 ]
+
 
