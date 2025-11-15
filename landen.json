@@ -11,7 +11,7 @@
     "id": "COUNTRY-002",
     "name": "France",
     "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/france.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/france.jpg",
     "independenceYear": 843,
     "motto": "Liberty, Equality, Fraternity"
   },
@@ -19,7 +19,7 @@
     "id": "COUNTRY-003",
     "name": "Netherlands",
     "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/netherlands.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/netherlands.jpg",
     "independenceYear": 1581,
     "motto": "Je Maintiendrai"
   },
@@ -27,7 +27,7 @@
     "id": "COUNTRY-004",
     "name": "Italy",
     "continent": "Europe",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/italy.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/italy.jpg",
     "independenceYear": 1861,
     "motto": "L'Italia è una Repubblica democratica, fondata sul lavoro"
   },
@@ -51,7 +51,7 @@
     "id": "COUNTRY-007",
     "name": "Egypt",
     "continent": "Africa",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/egypte.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/egypte.jpg",
     "independenceYear": 1922,
     "motto": "Allah, al-Watan, al-Shaab"
   },
@@ -59,7 +59,7 @@
     "id": "COUNTRY-008",
     "name": "Japan",
     "continent": "Asia",
-    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwikkeling/main/images/japan.jpg",
+    "flagUrl": "https://raw.githubusercontent.com/ridhaak1/dataset-webontwekkeling/refs/heads/main/images/japan.jpg",
     "independenceYear": -660,
     "motto": "Peace and Progress"
   },
@@ -80,6 +80,7 @@
     "motto": "From the cradle of civilization, Iraq stands united in strength and pride"
   }
 ]
+
 
 
 
